@@ -84,7 +84,7 @@ input {
     background-color: #333;
     color: #fff;
     margin-bottom: 15px;
-    font-size: 16px; /* Adjust font size for better readability */
+    font-size: 16px; 
 }
 
 button {
@@ -114,21 +114,21 @@ button:hover {
     background-color: #222;
     padding: 20px;
     border-radius: 10px;
-    max-width: 600px; /* Adjust the max width for the charts */
-    max-height: 400px; /* Adjust the max height for the charts */
-    margin: auto; /* Center the charts */
-    border: 1px solid #444; /* Add border for better definition */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+    max-width: 600px; 
+    max-height: 400px; 
+    margin: auto; 
+    border: 1px solid #444; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); 
 }
 #results, #results1, #results2, #results3, #results4, #results5 {
-    background-color: #333; /* Dark background for better contrast */
+    background-color: #333; 
     padding: 15px;
     border-radius: 5px;
-    border: 1px solid #555; /* Subtle border */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); /* Slight shadow for depth */
+    border: 1px solid #555; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
     margin-top: 10px;
-    font-size: 18px; /* Slightly larger text */
-    font-weight: 500; /* Medium weight for emphasis */
-    color: #fff; /* White text for readability */
-    text-align: center; /* Center-align text */
+    font-size: 18px; 
+    font-weight: 500; 
+    color: #fff; 
+    text-align: center; 
 }
